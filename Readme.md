@@ -2,6 +2,10 @@
 
 TaskMaster is a simple yet powerful task management application designed to help you organize, track, and complete your tasks efficiently. Whether you're managing personal to-dos or collaborating with a team, TaskMaster has you covered.
 
+## Set Up
+
+Clone the repo and set up in your local system, you can then use the postman documention link provided to test the laravel powered API, the nextJS client side is easy to setup as breeze!
+
 ## Stacks
 
 - **Laravel**
